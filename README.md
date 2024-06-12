@@ -1,2 +1,2 @@
-# WebDev-Backend-Template-TSX-node-ExpressJS
+# WebDev-Backend-Template-ExpressJS
 template for quick development
